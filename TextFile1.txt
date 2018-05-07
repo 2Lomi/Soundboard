@@ -1,0 +1,7 @@
+Essentiel ::
+
+- Importer des fichiers et lier un bouton à ce même fichier.
+
+- Lire un fichier audio sur une sortie audio choisie par défaut par windows (En cliquant sur un bouton)
+
+- 
